@@ -1,4 +1,5 @@
-Social Media Recommender App
+**Social Media Recommender App**
+
 This project is a machine learning-based recommendation system designed to enhance user engagement on social media platforms.
 It uses content-based filtering and collaborative filtering techniques to recommend:
 
